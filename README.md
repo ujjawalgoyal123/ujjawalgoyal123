@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ujjawalgoyal123
-- 👀 I’m interested in web development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning web-dev
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me ...
+- 📫 How to reach me - find me on linkdIn
 - 
 
 <!---
